@@ -1,2 +1,3 @@
-1) Rosatom: c++ QT
-2) VirtualWorldsStudios: unity c#
+1) Rosatom: c++ QT (реализовать задачу раскроя с визуализацией на QT) 
+2) VirtualWorldsStudios: unity c# (реализовать игру гольф) 
+3) RangeVision: c++ (найти все простые числа < N оптимальным способом) 
